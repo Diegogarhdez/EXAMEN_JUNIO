@@ -1,0 +1,32 @@
+﻿Puesto, apellido, nombre, altura, peso, edad
+
+
+Base,Díaz,Alberto,1.91,85,29
+Base,Fernández,Jaime,1.85,79,30
+Base,Nuñez,Juan,1.91,88,19
+Escolta,Llull,Sergio,1.91,92,36
+Escolta,Brizuela,Darío,1.88,75,29
+Escolta,Abrines,Álex,1.98,86,30
+Alero,Fernández,Rudy,1.96,84,38
+Alero,Claver,Víctor,2.08,102,35
+Alero,Parra,Joel,2.01,95,23
+Pivot,Aldama,Santi,2.13,98,22
+Pivot,Hernangómez,Juancho,2.06,97,28
+Pivot,Hernangómez,Willy,2.11,109,29
+
+
+Puesto, nombre,apellido
+
+
+Entrenador,Sergio Scariolo
+Entrenadores ayudantes,Manuel Aller
+Entrenadores ayudantes,Salva Camps
+Entrenadores ayudantes,Víctor García
+Entrenadores ayudantes,Luis Guil
+Entrenadores ayudantes,Jorge Lorenzo
+Entrenadores ayudantes,Ángel Sánchez-Cañete
+Asistentes,Carlos Jiménez
+Asistentes,Javier Hernández
+Asistentes,José Antonio Fernández
+Asistentes,Jordan Sospedraa
+Asistentes,David Urbano

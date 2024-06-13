@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/persona.dir/personas.cc.o CMakeFiles/persona.dir/personas_main.cc.o  -o ../build/persona 

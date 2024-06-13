@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/EXAMEN_JUNIO/clase_baloncesto/personas.cc
+personas.h
+/home/usuario/EXAMEN_JUNIO/clase_baloncesto/personas.h
+
+/home/usuario/EXAMEN_JUNIO/clase_baloncesto/personas.h
+iostream
+-
+string
+-
+
+/home/usuario/EXAMEN_JUNIO/clase_baloncesto/personas_main.cc
+iostream
+-
+personas.h
+/home/usuario/EXAMEN_JUNIO/clase_baloncesto/personas.h
+
